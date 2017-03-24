@@ -1,0 +1,57 @@
+#myPage {
+  position: relative;
+}
+
+.jumbotron {
+  background-color: #f4511B;
+  color: #ffffff;
+  padding: 100px 25px;
+}
+
+.container-fluid {
+  padding: 60px 50px;
+}
+
+  .thumbnail {
+      padding: 0 0 15px 0;
+      border: none;
+      border-radius: 0;
+  }
+.thumbnail img {
+      margin-bottom: 10px;
+  }
+
+.navbar {
+    margin-bottom: 0;
+    background-color: #f4511B;
+    z-index: 9999;
+    border: 0;
+    font-size: 15px !important;
+    line-height: 2 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+}
+
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #f4511B !important;
+    background-color: #fff !important;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+}
+
+footer .glyphicon {
+  font-size: 20px;
+  margin-bottom: 20px;
+  color: #fedcba;
+}
+
+footer {
+  background-color: #abcdef;
+}
